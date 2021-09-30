@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BottomAppBar+DialogSheetMenu</string>
+    <string name="version">2.1.1</string>
+    <string name="home">HOME</string>
+    <string name="shop">SHOP</string>
+    <string name="delivery">DELIVERY</string>
+    <string name="account">ACCOUNT</string>
+    <string name="favorites">FAVORITES</string>
+    <string name="main">MAIN</string>
+    <string name="settings">SETTINGS</string>
+    <string name="video">VIDEO</string>
+    <string name="location">LOCATION</string>
+    <string name="contacts">CONTACTS</string>
+    <string name="help">HELP</string>
+    <string name="developer">DEVELOPER</string>
+</resources>
